@@ -3,7 +3,7 @@
 <h4 align="center">Combining the reactive capabilities of Svelte with the immersive 3D graphics of Babylon.js</h4>
 
 <hr>
-<p align="center"><a href="#description">Description</a> &bull; <a href="#installation">Installation</a> &bull; <a href="#usage">Usage</a> &bull; <a href="#development">Development</a> &bull; <a href="#license">License</a> &bull; <a href="#contributing">Contributing</a> &bull; <a href="#roadmap">Roadmap</a> &bull; <a href="#contact">Contact</a></p>
+<p align="center"><a href="#description">Description</a> &bull; <a href="#installation">Installation</a> &bull; <a href="#usage">Usage</a> &bull; <a href="#development">Development</a> &bull; <a href="#license">License</a> &bull; <a href="#contributing">Contributing</a> &bull; <a href="#roadmap">Roadmap</a> &bull; <a href="#contact">Contact</a> &bull; <a href="#special-thanks">Special Thanks</a></p>
 <hr>
 
 ## Description
@@ -39,7 +39,7 @@ npm install
 
 ## License
 
-This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE.txt) file for details.
 
 ## Contributing
 
@@ -56,6 +56,13 @@ Contributions are welcome! Please read the [CONTRIBUTING](CONTRIBUTING.md) guide
 ## Contact
 
 For any questions or suggestions, please open an issue on GitHub or contact the project maintainers.
+
+## Special Thanks
+
+This project would not be possible without the amazing work of the following projects:
+
+- [Svelte](https://github.com/sveltejs/svelte) - A radical new approach to building user interfaces.
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js) - A powerful, beautiful, simple, and open game and rendering engine.
 
 ---
 

@@ -29,7 +29,7 @@
 		"game-engine-for-sveltekit",
 		"game-engine-for-svelte-kit"
 	],
-	"author": "Md Mujtaba Raza",
+	"author": "SvevylonJS",
 	"license": "Apache-2.0",
 	"scripts": {
 		"dev": "vite dev",
